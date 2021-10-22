@@ -4,11 +4,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at MIET meerut.
+- 🎓 &nbsp; Studying Computer Science at MIET meerut.
 - 🌱 &nbsp; Learning more about web development, app developement and blockchain.
 - ✍️ &nbsp; Pursuing databases and cryptography hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>https://www.linkedin.com/in/ashutosh-chaudhary-b558b4208/
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -44,10 +44,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashutosh-chaudhary-b558b4208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ashuchaudhary6969/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ashutosh.chaudhary.cse.2020@miet.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ashutosh-chaudhary-b558b4208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashutosh%20chaudhary-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ashuchaudhary6969/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashu chaudhary-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ashutosh.chaudhary.cse.2020@miet.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-ashutosh@mail-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/xdashutosh)<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+⭐️ From [AVS1508](https://github.com/xdashutosh)<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/ashutosh%20chaudhary%20Banner.png">
 
