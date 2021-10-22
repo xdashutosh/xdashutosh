@@ -49,5 +49,5 @@
 <a href="mailto:ashutosh.chaudhary.cse.2020@miet.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-ashutosh@mail-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [xdashutosh](https://github.com/xdashutosh)<img src="https://avatars.githubusercontent.com/u/84145089?v=4 height="20px" width="20px">
+⭐️ From [xdashutosh](https://github.com/xdashutosh)<img src="https://avatars.githubusercontent.com/u/84145089?v=4" height="20px" width="20px">
 
