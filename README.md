@@ -49,5 +49,24 @@
 <a href="mailto:ashutosh.chaudhary.cse.2020@miet.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-ashutosh@mail-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+### :chart_with_upwards_trend:  Stats
+
+
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=xdashutosh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJITMALIK&theme=tokyonight)
+
+NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+
+
+<p align="center">
+    <a href="https://github.com/xdashutosh/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashutosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xdashutosh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br>
+
+<a href="https://github.com/xdashutosh/github-readme-activity-graph"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xdashutosh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ⭐️ From [xdashutosh](https://github.com/xdashutosh)<img src="https://avatars.githubusercontent.com/u/84145089?v=4" height="20px" width="20px">
 
