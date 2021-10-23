@@ -54,7 +54,6 @@
 
 [![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=xdashutosh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJITMALIK&theme=tokyonight)
 
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
