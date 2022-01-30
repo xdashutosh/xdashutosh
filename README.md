@@ -62,4 +62,3 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
 
 <a href="https://github.com/xdashutosh/github-readme-activity-graph"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xdashutosh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ⭐️ From [xdashutosh](https://github.com/xdashutosh)<img src="https://avatars.githubusercontent.com/u/84145089?v=4" height="20px" width="20px">
-![Snake animation](https://github.com/xdashutosh/xdashutosh/blob/output/snake.svg)
