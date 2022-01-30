@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Ashutosh.</h2>
+<h2> Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Ashutosh.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -62,4 +62,4 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
 
 <a href="https://github.com/xdashutosh/github-readme-activity-graph"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xdashutosh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ⭐️ From [xdashutosh](https://github.com/xdashutosh)<img src="https://avatars.githubusercontent.com/u/84145089?v=4" height="20px" width="20px">
-
+![Snake animation](https://github.com/xdashutosh/xdashutosh/blob/output/github-contribution-grid-snake.svg)
